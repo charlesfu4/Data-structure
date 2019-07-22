@@ -1,4 +1,8 @@
 #python3
+#A 7-digit phone book simple version with the following functions:
+#    -add: add specific number with the owner's name Ex: add 1234567 Jacky
+#    -delete: delelte specific number from the phone book Ex: del 1234568
+#    -find: find specific number and return the owner's name Ex: find 1234567 then return Jacky
 
 class phonebook:
     def __init__(self):
